@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="doclava" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.android" external.system.module.version="1.0.6" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test/api" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.antlr:antlr4:4.7.1" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: tools">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: sunjce_provider">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: dnsns">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: jaccess">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: cldrdata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: zipfs">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: nashorn">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: sunec">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: localedata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: sunpkcs11">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:r06" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ibm.icu:icu4j:58.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.glassfish:javax.json:1.0.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.antlr:ST4:4.0.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.antlr:antlr4-runtime:4.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.jsilver:jsilver:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.antlr:antlr4:4.7.1" level="project" />
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: tools">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: sunjce_provider">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: dnsns">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: jaccess">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: cldrdata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: zipfs">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: nashorn">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: sunec">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: localedata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: sunpkcs11">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.guava:guava:r06" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.ibm.icu:icu4j:58.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish:javax.json:1.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.antlr:ST4:4.0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.antlr:antlr4-runtime:4.7.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.jsilver:jsilver:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.antlr:antlr4:4.7.1" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: tools">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: sunjce_provider">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: dnsns">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: jaccess">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: cldrdata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: zipfs">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: nashorn">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: sunec">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: localedata">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: sunpkcs11">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava:r06" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.ibm.icu:icu4j:58.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.glassfish:javax.json:1.0.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.antlr:ST4:4.0.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.antlr:antlr4-runtime:4.7.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.jsilver:jsilver:1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="antlr4-4.7.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="jsilver-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="tagsoup-1.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="antlr4-runtime-4.7.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="ST4-4.0.8" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="antlr-runtime-3.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="org.abego.treelayout.core-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="javax.json-1.0.4" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="icu4j-58.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="guava-r06" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="sunpkcs11" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="localedata" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="sunec" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="nashorn" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="zipfs" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="cldrdata" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="jaccess" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="dnsns" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="sunjce_provider" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="tools" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+    <orderEntry type="library" exported="" name="doclava.doclava-1.0.6" level="project" />
+  </component>
+</module>
