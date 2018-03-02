@@ -16,16 +16,21 @@
 
 import javax.tools.ToolProvider
 
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.github.jengelman.gradle.plugins:shadow:2.0.2'
+    }
+}
+
 apply plugin: 'java'
 apply plugin: 'maven'
+apply plugin: 'com.github.johnrengelman.shadow'
 
 group = 'com.android'
 version = '1.0.6'
-
-/*
- * If prebuilts are available, use them. Else, if this is unbundled build use jcenter().
- * Finally, if none of that is true, attempt to compile against the full source trees.
- */
 
 repositories {
     jcenter()
@@ -51,6 +56,14 @@ sourceSets {
         java.srcDirs = ['test/']
         resources.srcDirs = ['test/api']
     }
+}
+
+jar {
+  manifest {
+    attributes(
+      'Main-Class': 'com.google.doclava.Doclava'
+    )
+  }
 }
 
 uploadArchives {
